@@ -21,5 +21,5 @@ I made few mistakes along the way which prevented the model from reaching the le
 You can find my implementation [here](https://github.com/kkunte/computer_vision/blob/master/ResNet_CIFAR10.ipynb)
 
 Here are other implementations that I found useful:
-<https://github.com/kuangliu/pytorch-cifar/tree/master/models> 
-<https://github.com/akamaster/pytorch_resnet_cifar10> 
+- <https://github.com/kuangliu/pytorch-cifar/tree/master/models> 
+- <https://github.com/akamaster/pytorch_resnet_cifar10> 
