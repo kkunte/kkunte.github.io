@@ -1,0 +1,23 @@
+
+Norms
+General form of nth norm of a vector is : nth root of ( sum of abs(xi)^nth power)
+
+L2 norm is also known as Euclidean distance.
+Squared L2 norm (exclude the square  root) is frequently used in deep learning because the derivative of squared L2 norm depends just on the element whereas the derivative of L2 norm depends on all elements of the vector.
+Sometimes L2 norm is undesirable because it increases very slowly close to the origin.
+
+L1 Norm
+L1 norm is just a sum of absolute values of the elements.
+It is used in machine learning when the difference between zero and non-zero elements is very important.
+
+L0 Norm
+Count the number of non-zero entries of the vector.
+
+Max Norm
+Absolute value of the element with the largest magnitude in the vector
+
+Frobenius Norm
+It is the sqrt of sum of all elements of a matrix.
+How is Frobenius norm useful in machine learning ?
+What is a 2 norm of a matrix and how is it different from Frobenius norm?
+
